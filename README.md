@@ -1,16 +1,12 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Alex</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandrshy/">LinkedIn</a> •
+  <a href="https://t.me/alexandrshy">Telegram</a>
+</p>
 
-<!--
-**Alexandrshy/Alexandrshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I currently work as an Software Engineering Manager for the <a href="https://github.com/optimaxdev">Optimax Investments Ltd</a>
+- 💬 Brainstorm with me on technology, web development, technical management, career and music
+- 📓 I'm writing about <a href="https://t.me/softlead">technical management</a>
+- 🎤 I'm talking about <a href="https://redcircle.com/shows/optimax-prime">IT</a>
+- 📫 How to reach me: <a href="mailto:alexandrshy@gmail.com">alexandrshy@gmail.com</a>
+<!-- - 📝 <a href="/">Resume</a> -->
