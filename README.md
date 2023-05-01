@@ -9,4 +9,4 @@
 - 📓 I'm writing about <a href="https://t.me/softlead">technical management</a>
 - 🎤 I'm talking about <a href="https://redcircle.com/shows/optimax-prime">IT</a>
 - 📫 How to reach me: <a href="mailto:alexandrshy@gmail.com">alexandrshy@gmail.com</a>
-- 📝 <a href="https://github.com/Alexandrshy/Alexandrshy/blob/main/Alex_Shulaev_Resume_Senior_Frontend_Engineer_Engineering_Manager.pdf">Resume</a>
+- 📝 <a href="https://github.com/Alexandrshy/Alexandrshy/blob/main/Alex_Shulaev_Resume_Senior_Front_End_Developer_Engineering_Manager.pdf">Resume</a>
