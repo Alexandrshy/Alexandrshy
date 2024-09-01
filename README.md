@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Alex</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexandrshy/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/aleksandr-shulaev/">LinkedIn</a> •
   <a href="https://t.me/alexandrshy">Telegram</a>
 </p>
 
