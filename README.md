@@ -9,7 +9,7 @@
 - 📓 I'm writing about <a href="https://t.me/softlead">technical management</a>
 - 🎤 I'm talking about <a href="https://redcircle.com/shows/optimax-prime">IT</a>
 - 📫 How to reach me: <a href="mailto:alexandrshy@gmail.com">alexandrshy@gmail.com</a>
-- 📝 <a href="https://drive.google.com/file/d/1jbMCrOJUF2UF0vvJ_i1073t57K0qle98/view?usp=sharing">Resume</a>
+- 📝 <a href="https://drive.google.com/file/d/1P7FV2yUEqY4sLFaZ04TmLZqL1NYS9zv9/view?usp=sharing">Resume</a>
 
 
 <p>Actively providing mentorship in the tech community, you can request a consultation <a href="https://getmentor.dev/mentor/aleksandr-shulaev-896">here</a>.</p>
